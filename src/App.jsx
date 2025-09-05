@@ -14,7 +14,7 @@ function ok(){
     <>
       <div>
         <input id='ok' type='text' placeholder='enter the number'></input>
-        <button onClick={ok}>button</button>
+        <button onClick={ok}>button 4</button>
       </div>
     </>
   )
